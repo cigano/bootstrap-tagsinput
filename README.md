@@ -3,7 +3,7 @@ bootstrap-tagsinput
 
 NuGet Package for **Bootstrap Tags Input**
 
-This is just the distribution files for [Bootstrap Tags Input](http://jscolor.com/), and I just packed the sources and assets to work with ASP.NET MVC projects.
+This is just the distribution files for [Bootstrap Tags Input](https://github.com/timschlechter/bootstrap-tagsinput), and I just packed the sources and assets to work with ASP.NET MVC projects.
 
 ## Usage Instructions ##
 
