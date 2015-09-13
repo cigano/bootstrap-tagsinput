@@ -11,7 +11,7 @@ This is just the distribution files for [Bootstrap Tags Input](https://github.co
 
 **Direct Example**
 
-    <script type="text/javascript" src="jscolor/jscolor.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap-tagsinput.js"></script>
 
 **Bundling Example**
 
