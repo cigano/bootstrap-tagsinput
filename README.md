@@ -50,4 +50,8 @@ At `/App_Start/BundleConfig.cs`:
         ...
     }
 
-You can also use the `min` versions and/or the `angular` versions.
+You can also use the `min` and/or the `angular` versions.
+
+# License
+
+This project is licensed under [MIT](https://raw.github.com/bootstrap-tagsinput/bootstrap-tagsinput/master/LICENSE "Read more about the MIT license").
