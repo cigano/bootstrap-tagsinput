@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>bootstrap-tagsinput</id>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
     <authors>Tim Schlechter</authors>
     <owners>Cigano Morrison Mendez</owners>
     <licenseUrl>https://raw.githubusercontent.com/TimSchlechter/bootstrap-tagsinput/master/LICENSE</licenseUrl>
@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>NuGet Package for bootstrap-tagsinput. See http://github.com/cigano/bootstrap-tagsinput for more details.
 	
-	Updated to version 0.8.0 of the original package. 
+	Updated to version 0.8.0 of the original package. Updated to Bootstrap 3.3.6.
 	</description>
     <releaseNotes>Initial Release.</releaseNotes>
     <copyright>Copyright 2015 Tim Schlechter</copyright>
