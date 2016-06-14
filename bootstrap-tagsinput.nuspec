@@ -17,7 +17,7 @@
     <copyright>Copyright 2015 Tim Schlechter</copyright>
     <tags>Bootstrap Tags</tags>
     <dependencies>
-      <dependency id="bootstrap" version="[3.0.0,3.3.5)" />
+      <dependency id="bootstrap" version="[3.0.0,3.3.6)" />
 	  <dependency id="jQuery" version="[1.6,)" />
     </dependencies>
   </metadata>
